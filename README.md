@@ -1,2 +1,2 @@
 # Explosion-Pressure-Prediction
-Machine Learning Assessment Requirement
+I run a complete machine learning pipeline in a Jupyter notebook to predict the pressure in a boiling liquid explosion.
